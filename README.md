@@ -1,0 +1,2 @@
+# FuckingShit
+The FuckingShit project.
